@@ -1,0 +1,16 @@
+COURSECODE,CourseName,NumberOfRater,AverageOverview,AverageDifficulty,AverageWAM
+COMP1000,Web_Spreadsheets&Databases,20,4.1,3,80
+COMP1400,Prog_For_Designers,10,4.5,2,70
+COMP1511,Prog_Fundamentals,100,3,4,60
+COMP2511,O-O_Design,80,2.7,5,63
+COMP2521,DSA,90,2.3,5,68
+COMP3121,Algorithms&Prog_Tech,100,4,5,73
+COMP3131,Prog_Lang&Compil,15,1.9,3,78
+COMP3141,Soft_Sys,25,4.2,2,83
+COMP3151,Foundations_of_Concurrency,35,4.2,3,88
+COMP1521,Comp_Sys_Fundamentals,80,3.9,3,60
+COMP1531,Software_Eng_Fundamentals,30,4.7,2,70
+COMP1911,Computing_1A,40,4.3,3,75
+COMP2041,Software_Construction,50,3.9,3,80
+COMP2111,System_Modelling&Design,60,3.5,4,85
+COMP2121,Microprocessors&Interfacing,70,3.1,5,90
